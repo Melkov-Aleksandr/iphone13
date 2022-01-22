@@ -90,7 +90,7 @@ h1, h2, h3, p, ul {
     line-height: 32px;
 }
 
-.button_buy {
+.button--buy {
     background-color: #FE3B3B;
     border: 1px solid #FE3B3B;
     color: #FFFFFF;
@@ -266,7 +266,7 @@ h1, h2, h3, p, ul {
     margin: 0 70px 0 0;
 }
 
-.card__image_item {
+.card__image-item {
     width: 230px;
     max-width: none;
 }
@@ -330,7 +330,7 @@ h1, h2, h3, p, ul {
     margin-bottom: 60px;
 }
 
-.card-details__button_buy {
+.card-details__button--buy {
     margin-right: 28px;
 }
 
@@ -387,7 +387,7 @@ h1, h2, h3, p, ul {
         margin-bottom: 30px;
     }
 
-    .card-details__button_buy {
+    .card-details__button--buy {
         margin-bottom: 30px;
     }
 
